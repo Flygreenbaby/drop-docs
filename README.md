@@ -6,7 +6,7 @@ Drop 是一个**共享收件箱**：发出去的内容带着时间戳留在服�
 
 不需要 App、不需要注册账号、不需要扫码配对——记住一个网址就够了。一个容器跑起全部功能，零第三方依赖。
 
-![Drop 的使用界面](https://img.ahyun.org.cn/ahyun%E7%9A%84%E7%88%B1%E5%AD%A4%E5%B2%9B%E4%B9%8B%E5%8D%9A%E5%AE%A2%E8%AE%B0%E5%BD%95/images/20261006202154630.png)
+![Drop](images/drop-preview.png)
 
 许可：个人 / 非商业使用，条款见 [LICENSE](LICENSE)。本项目不是开源软件，源代码仓库不公开。
 
